@@ -7,3 +7,7 @@ target number, the player that is nearest to the target number wins.</p>
 <ul>
 <li>JavaScript</li>
 </ul>
+
+
+https://user-images.githubusercontent.com/90618526/147983522-fc4df61e-55aa-4e77-8f93-2a4162bf1b81.mp4
+
